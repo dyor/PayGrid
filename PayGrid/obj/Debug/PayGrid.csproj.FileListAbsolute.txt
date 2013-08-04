@@ -83,3 +83,10 @@ C:\Users\Matt\Documents\Visual Studio 2012\Projects\PayGrid\PayGrid\bin\zh-Hant\
 C:\Users\Matt\Documents\Visual Studio 2012\Projects\PayGrid\PayGrid\obj\Debug\PayGrid.csprojResolveAssemblyReference.cache
 C:\Users\Matt\Documents\Visual Studio 2012\Projects\PayGrid\PayGrid\obj\Debug\PayGrid.dll
 C:\Users\Matt\Documents\Visual Studio 2012\Projects\PayGrid\PayGrid\obj\Debug\PayGrid.pdb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\PayGrid\PayGrid\bin\PayGrid.dll.config
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\PayGrid\PayGrid\bin\SendGridMail.dll
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\PayGrid\PayGrid\bin\System.Net.Http.Extensions.dll
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\PayGrid\PayGrid\bin\System.Net.Http.Primitives.dll
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\PayGrid\PayGrid\bin\System.Net.Http.Extensions.xml
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\PayGrid\PayGrid\bin\System.Net.Http.Primitives.xml
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\PayGrid\PayGrid\obj\Debug\PayGrid.csproj.App.config
